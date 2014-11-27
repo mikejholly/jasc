@@ -1,0 +1,32 @@
+{
+  "name": "jasc",
+  "version": "0.0.1",
+  "description": "Just a Small Concurrency library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~2.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikejholly/jasc.git"
+  },
+  "keywords": [
+    "async",
+    "concurrency",
+    "flow",
+    "control"
+  ],
+  "author": "Mike Holly <mikejholly@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikejholly/jasc/issues"
+  },
+  "homepage": "https://github.com/mikejholly/jasc"
+}
